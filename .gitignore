@@ -9,5 +9,5 @@
 >>>>>>> 6153920efe55b730cb04ec2757d377cf69931422
 *.xml
 *.iml
-co_bdd*
-!co_bdd-Example
+co_bdd.php*
+!co_bdd-Example.php
