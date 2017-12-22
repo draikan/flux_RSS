@@ -10,3 +10,4 @@
 *.xml
 *.iml
 co_bdd*
+!co_bdd-Example
